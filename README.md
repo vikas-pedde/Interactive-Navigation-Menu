@@ -1,5 +1,5 @@
 
- 🚀 Interactive Navigation Menu — Task Submission
+ 🚀 Interactive Navigation Menu 
 
 
 A modern **interactive fixed navigation bar**developed using HTML, CSS, and JavaScript.
